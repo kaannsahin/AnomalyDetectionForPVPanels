@@ -3,6 +3,7 @@
 
 This repository contains the implementation of an anomaly detection system for photovoltaic (PV) panels using Convolutional Neural Networks (CNNs). The goal of this project is to develop a robust model that can accurately detect anomalies and defects in PV panels from images. Anomalies can include cracks, hotspots, discolorations, and other forms of damage that can affect the performance of PV panels.
 
+-- The first model (CNNModelPV) I made has an accuracy level of 65 percent and is a sign that something is wrong.
 
 
 Base Paper ----------------
@@ -49,3 +50,4 @@ The dataset consists of 20,000 infrared images that are 24 by 40 pixels each. Th
 Dataset Source and Paper ----
 
 https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf
+
